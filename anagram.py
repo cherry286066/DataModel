@@ -6,7 +6,7 @@ for i in range(len(x)):
         if x[i]==y[j]:
             s=s+1
             break
-#added comments
+#added comments to anagram
 if s==len(x):
     print("it is anagram")
 else:
