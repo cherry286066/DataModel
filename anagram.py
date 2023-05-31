@@ -1,3 +1,4 @@
+#Write down the comments
 x=input("enter a string")
 y=input("enter another string")
 s=0
